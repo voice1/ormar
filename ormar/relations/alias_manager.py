@@ -118,7 +118,7 @@ class AliasManager:
         :type source_model: source Model
         :param relation_name: name of the relation to define
         :type relation_name: str
-        :param reverse_name: name of related_name fo given relation for m2m relations
+        :param reverse_name: name of related_name for given relation for m2m relations
         :type reverse_name: Optional[str]
         :return: none
         :rtype: None
